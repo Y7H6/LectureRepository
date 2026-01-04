@@ -1,0 +1,11 @@
+{
+  "description": "DESIGN doc presence and header check",
+  "doc_path": "docs/DESIGN_PokerAgent_Draft.md",
+  "checks": {
+    "exists": true,
+    "must_contain": [
+      "PokerAgent — 設計書（ドラフト）",
+      "ユーザーが画面上で CPU 相手に遊べ"
+    ]
+  }
+}
