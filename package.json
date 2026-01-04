@@ -1,0 +1,27 @@
+{
+  "name": "lecturerepository",
+  "version": "1.0.0",
+  "description": "概要 - フロントエンド: TypeScript + React (Vite) - バックエンド: Python + FastAPI - SpecKit ベースの仕様駆動開発を想定（spec/ に仕様雛形あり） - LLM: プロトタイプは無料枠の Hugging Face Inference API を推奨。ローカルのダミー応答や自己ホスト（llama.cpp等）にも対応。",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Y7H6/LectureRepository.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Y7H6/LectureRepository/issues"
+  },
+  "homepage": "https://github.com/Y7H6/LectureRepository#readme",
+  "dependencies": {
+    "speckit": "^0.1.0"
+  }
+}
