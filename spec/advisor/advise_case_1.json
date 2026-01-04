@@ -1,0 +1,17 @@
+{
+  "description": "BTN: Ah,Kd on empty board vs TAG -> raise",
+  "input": {
+    "hand": ["Ah", "Kd"],
+    "board": [],
+    "position": "BTN",
+    "stack": 120,
+    "pot": 2,
+    "opponent_style": "TAG",
+    "action_history": [],
+    "mode": "beginner"
+  },
+  "expected": {
+    "action": "raise",
+    "bet_size": "3x"
+  }
+}
